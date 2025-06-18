@@ -1,4 +1,4 @@
-# yolo-object-detection
+# Realtime yolo-object-detection with webcam, video, or rtsp cam
 # YOLOv8 Object Detection with FPS Display
 
 This project demonstrates real-time object detection using [YOLOv8](https://github.com/ultralytics/ultralytics) and displays frames per second (FPS) on the video stream.
